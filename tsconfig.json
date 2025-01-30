@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "NodeNext",
+    "target": "ES6",
+    "module": "commonjs",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "noImplicitAny": true,
-    "moduleResolution": "NodeNext",
+    // "moduleResolution": "NodeNext",
     "sourceMap": true,
     "baseUrl": "src",
     "outDir": "./dist",
