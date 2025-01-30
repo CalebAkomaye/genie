@@ -37,5 +37,5 @@
 
 ## Deployment
 
-- The API is deployed on Render for scalability and reliable hosting.
+- The API was deployed on Render for scalability and reliable hosting, but the deployment has been discontinued due to ongoing costs..
 - Can be integrated with other applications via RESTful endpoints.
