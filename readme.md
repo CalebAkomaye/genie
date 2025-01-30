@@ -21,7 +21,7 @@
    cd audio-to-text-api
    ```
 2. Install dependencies:
-   ```sh
+   ```
    npm install
    ```
 3. Configure environment variables:
